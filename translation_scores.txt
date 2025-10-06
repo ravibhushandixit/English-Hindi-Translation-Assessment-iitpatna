@@ -1,0 +1,3 @@
+BLEU score: 85.49
+CHRF score: 92.52
+TER score: 13.31
